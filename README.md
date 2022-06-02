@@ -18,16 +18,15 @@ The website is a clone earlier UI/UX of **Starbucks**, current website of Starbu
   
 #### 1. With the help of CSS I tried to align the tabs in middle, made it more clear to understand and visually appealing. 
 
-<img src="https://github.com/Amisha0606/Starbucks-clone/blob/98b8ddaae18dea0f926d6427123936f32a5a43ed/Screenshots/Screenshot%202022-06-02%20at%202.32.58%20AM.png" alt="Org-middle" height="400" width="500"> &nbsp;<img src="https://github.com/Amisha0606/Starbucks-clone/blob/98b8ddaae18dea0f926d6427123936f32a5a43ed/Screenshots/Screenshot%202022-06-02%20at%202.33.12%20AM.png" alt="Org-middle" height="400" width="500">
+<img src="https://github.com/Amisha0606/Starbucks-clone/blob/98b8ddaae18dea0f926d6427123936f32a5a43ed/Screenshots/Screenshot%202022-06-02%20at%202.32.58%20AM.png" alt="Org-middle"  width="100%"> <h5><p align= center>Original</p></h5>
+<img src="https://github.com/Amisha0606/Starbucks-clone/blob/98b8ddaae18dea0f926d6427123936f32a5a43ed/Screenshots/Screenshot%202022-06-02%20at%202.33.12%20AM.png" alt="Org-middle" width="100%"><h5><p align= center>Cloned</p></h5>
  
-  Original (left), Cloned (right)
  <hr>
   
 #### 2. The icons division was unorganised and looked a bit weird to me. So here I made them center aligned and ordered as por teh above division.
   
-<img src="https://github.com/Amisha0606/Starbucks-clone/blob/98b8ddaae18dea0f926d6427123936f32a5a43ed/Screenshots/Screenshot%202022-06-02%20at%202.17.28%20AM.png" alt="Org-middle" height="400" width="500"> &nbsp;<img src="https://github.com/Amisha0606/Starbucks-clone/blob/98b8ddaae18dea0f926d6427123936f32a5a43ed/Screenshots/Screenshot%202022-06-02%20at%202.17.46%20AM.png" alt="Org-middle" height="400" width="500">
- 
-  Original (left), Cloned (right)
+<img src="https://github.com/Amisha0606/Starbucks-clone/blob/98b8ddaae18dea0f926d6427123936f32a5a43ed/Screenshots/Screenshot%202022-06-02%20at%202.17.28%20AM.png" alt="Org-middle" width="100%"><h5><p align= center>Original</p></h5>
+ <img src="https://github.com/Amisha0606/Starbucks-clone/blob/98b8ddaae18dea0f926d6427123936f32a5a43ed/Screenshots/Screenshot%202022-06-02%20at%202.17.46%20AM.png" alt="Org-middle" width="100%"><h5><p align= center>Cloned</p></h5>
   
 <!-- Org middle <https://github.com/Amisha0606/Starbucks-clone/blob/98b8ddaae18dea0f926d6427123936f32a5a43ed/Screenshots/Screenshot%202022-06-02%20at%202.32.58%20AM.png>
 
