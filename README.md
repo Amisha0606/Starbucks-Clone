@@ -6,7 +6,8 @@ The whole website is complete though there are a few issues that need to be reso
 The website is a clone earlier UI/UX of **Starbucks**, current website of Starbucks is completly different.
 
 
-### Website for this repository : [starbucks-clone-by-amisha.netlify.app](https://starbucks-clone-by-amisha.netlify.app/)
+### Website for this repository : [https://starbucks-by-amisha.vercel.app/](https://starbucks-by-amisha.vercel.app/)
+
 
 ### Actual Starbucks Website: [https://www.starbucks.com/](https://www.starbucks.com/)
 
